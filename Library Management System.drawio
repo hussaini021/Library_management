@@ -38,10 +38,10 @@
           <mxGeometry x="130" y="460" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LYNcUENDGRjeqFCzSe4F-10" value="Member" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="129" y="780" width="109" height="50" as="geometry" />
+          <mxGeometry x="129" y="780" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LYNcUENDGRjeqFCzSe4F-11" value="Mambe&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;Email&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="131" y="830" width="109" height="109" as="geometry" />
+          <mxGeometry x="130" y="830" width="109.5" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="LYNcUENDGRjeqFCzSe4F-13" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LYNcUENDGRjeqFCzSe4F-9" target="LYNcUENDGRjeqFCzSe4F-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
