@@ -32,7 +32,7 @@
           <mxGeometry x="508" y="36" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="heS-apC7RwUpxdM9aNpH-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="395" y="260" width="60" height="80" as="geometry" />
+          <mxGeometry x="350" y="220" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B1uiYq23eyl5VwNpWCAt-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -121,6 +121,19 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="845" y="326" as="sourcePoint" />
             <mxPoint x="734" y="299.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EL94iSqlh3Zu_l04_MkY-17" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="781" y="610" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EL94iSqlh3Zu_l04_MkY-18" value="Staff_ID (PK)&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;Role&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Username&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="781" y="649" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EL94iSqlh3Zu_l04_MkY-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EL94iSqlh3Zu_l04_MkY-14" target="EL94iSqlh3Zu_l04_MkY-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="520" as="sourcePoint" />
+            <mxPoint x="990" y="510" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
