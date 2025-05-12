@@ -1,5 +1,5 @@
-# Libarary_management
-ER Diagram for libarary management system
+# Library_management
+ER Diagram for library management system
 # Screenshot
 ![ER_Diagram-for-libarary-management-System drawio](https://github.com/user-attachments/assets/c82dbfa4-a15b-429f-ae80-7ffcc8320aea)
 
