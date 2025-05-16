@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="enIxqUN0M-IkAclhJr2Q">
-    <mxGraphModel dx="928" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2134" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,7 +602,7 @@
         <mxCell id="Dvoh5HNO3AWOjvGZyPL1-1" value="&lt;h1&gt;&lt;font&gt;Created by: Murtaza Hussaini, Jaweid moraadi &amp;amp; Farid Wardak&lt;/font&gt;&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66FFFF;strokeColor=#6c8ebf;fillStyle=solid;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="260" y="1210" width="930" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Dvoh5HNO3AWOjvGZyPL1-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;penalty&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+        <mxCell id="Dvoh5HNO3AWOjvGZyPL1-2" value="S" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="641.5" y="860" width="195" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Dvoh5HNO3AWOjvGZyPL1-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;" parent="Dvoh5HNO3AWOjvGZyPL1-2" vertex="1">
