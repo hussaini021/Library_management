@@ -605,7 +605,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dvoh5HNO3AWOjvGZyPL1-1" value="&lt;h1&gt;&lt;font&gt;Created by: Murtaza Hussaini, Jaweid moraadi &amp;amp; Farid Wardak&lt;/font&gt;&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66FFFF;strokeColor=#6c8ebf;fillStyle=solid;labelBackgroundColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1410" width="930" height="160" as="geometry" />
+          <mxGeometry x="260" y="1210" width="930" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Dvoh5HNO3AWOjvGZyPL1-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;penalty&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="641.5" y="826" width="195" height="310" as="geometry" />
