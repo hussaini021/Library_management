@@ -557,7 +557,7 @@
             <mxRectangle width="178" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2v6IDgmXy5sViwPyaW7p-215" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=none;rounded=0;labelBackgroundColor=light-dark(#171616, #121212);verticalAlign=middle;fontFamily=Verdana;labelBorderColor=default;textShadow=0;startFill=0;endSize=8;startSize=8;targetPerimeterSpacing=2;sourcePerimeterSpacing=2;strokeColor=light-dark(#030303, #babdc0);jumpStyle=line;strokeWidth=2;fillColor=#cdeb8b;" parent="1" edge="1">
+        <mxCell id="2v6IDgmXy5sViwPyaW7p-215" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=none;rounded=0;labelBackgroundColor=light-dark(#171616, #121212);verticalAlign=middle;fontFamily=Verdana;labelBorderColor=default;textShadow=0;startFill=0;endSize=8;startSize=8;targetPerimeterSpacing=2;sourcePerimeterSpacing=2;strokeColor=light-dark(#030303, #babdc0);jumpStyle=line;strokeWidth=3;fillColor=#cdeb8b;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="844" y="300" as="sourcePoint" />
             <mxPoint x="634" y="470" as="targetPoint" />
