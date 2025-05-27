@@ -25,7 +25,8 @@ This project was developed as part of an academic assignment to model and presen
 
 ## 📸 Preview
 
-![Library Management System Diagram]![aq2 drawio](https://github.com/user-attachments/assets/b16a56ae-9d98-4f36-94eb-e226cecd24a8)
+![Library Management System Diagram]![aq2 drawio]![Photo of Diagram](https://github.com/user-attachments/assets/1419c247-1f62-4f7e-a6d8-cdd97269c2ee)
+
 
 
 ## 👨‍💻 Authors
