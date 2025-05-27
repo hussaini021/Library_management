@@ -550,7 +550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-124" value="&lt;div&gt;Return date&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1596" y="2101" width="149.9999999999999" height="20" as="geometry">
+          <mxGeometry x="1588.5" y="2121" width="149.9999999999999" height="20" as="geometry">
             <mxRectangle width="149.9999999999999" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -759,7 +759,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-169" value="&lt;div&gt;DueDate&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1599.5" y="2131" width="149.9999999999999" height="20" as="geometry">
+          <mxGeometry x="1584" y="2160" width="149.9999999999999" height="20" as="geometry">
             <mxRectangle width="149.9999999999999" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
