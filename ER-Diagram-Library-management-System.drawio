@@ -564,8 +564,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ama2miM17LIpOyO-21Nn-126" value="&lt;h1&gt;&lt;font&gt;Created by: Murtaza Hussaini, Jaweid moraadi &amp;amp; Farid Wardak&lt;/font&gt;&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66FFFF;strokeColor=#6c8ebf;fillStyle=solid;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="2540" width="1330" height="160" as="geometry" />
+        <mxCell id="ama2miM17LIpOyO-21Nn-126" value="&lt;h1&gt;&lt;font&gt;Created by: Murtaza Hussaini&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font&gt;&amp;amp; Jaweid moraadi&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66FFFF;strokeColor=#6c8ebf;fillStyle=solid;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="2288" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-127" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;penalty&amp;nbsp;&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="2547" y="2167" width="195" height="310" as="geometry" />
@@ -1051,7 +1051,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-225" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Library&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-          <mxGeometry x="2512" y="1234" width="230" height="360" as="geometry" />
+          <mxGeometry x="2512" y="1234" width="230" height="352" as="geometry" />
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-226" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="ama2miM17LIpOyO-21Nn-225" vertex="1">
           <mxGeometry y="30" width="230" height="32" as="geometry" />
@@ -1093,16 +1093,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-235" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="ama2miM17LIpOyO-21Nn-225" vertex="1">
-          <mxGeometry y="120" width="230" height="28" as="geometry" />
+          <mxGeometry y="120" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-236" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="ama2miM17LIpOyO-21Nn-235" vertex="1">
-          <mxGeometry width="30" height="28" as="geometry">
-            <mxRectangle width="30" height="28" as="alternateBounds" />
+          <mxGeometry width="30" height="20" as="geometry">
+            <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-237" value="Library Manager" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="ama2miM17LIpOyO-21Nn-235" vertex="1">
-          <mxGeometry x="30" width="200" height="28" as="geometry">
-            <mxRectangle width="200" height="28" as="alternateBounds" />
+          <mxGeometry x="30" width="200" height="20" as="geometry">
+            <mxRectangle width="200" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-238" value="Staff Count" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
