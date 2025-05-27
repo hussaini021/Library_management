@@ -1,6 +1,7 @@
 # 📚 University Library Management System - Diagram Project
 
-This repository contains a diagram and presentation that explain the **Library Management System** for a university. The project is a visual and conceptual model showing how different components of a library system interact, including users, books, and system operations.
+
+A comprehensive and efficient Library Management System tailored for university-level requirements. This project models the entire lifecycle of library operations — from book registration and transaction tracking to penalties and warehouse management — using an advanced ER diagram.
 
 ## 📂 Project Contents
 
