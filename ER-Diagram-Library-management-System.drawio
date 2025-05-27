@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="27.0.9">
   <diagram name="Page-1" id="enIxqUN0M-IkAclhJr2Q">
-    <mxGraphModel dx="579" dy="-338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="75" dy="-607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ER DIAGRAM FOR library management system&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1852.5" y="1120" width="590" height="40" as="geometry" />
+          <mxGeometry x="1550" y="1120" width="892.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Return Details&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="1561.5" y="1913" width="195" height="370.0000000000002" as="geometry" />
@@ -1156,7 +1156,7 @@
             <mxRectangle width="178" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ama2miM17LIpOyO-21Nn-249" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=none;rounded=0;labelBackgroundColor=light-dark(#171616, #121212);verticalAlign=middle;fontFamily=Verdana;labelBorderColor=default;textShadow=0;startFill=0;endSize=8;startSize=8;targetPerimeterSpacing=2;sourcePerimeterSpacing=2;strokeColor=light-dark(#000000,#BABDC0);jumpStyle=line;strokeWidth=2;fillColor=#cdeb8b;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="ama2miM17LIpOyO-21Nn-84">
+        <mxCell id="ama2miM17LIpOyO-21Nn-249" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=none;rounded=0;labelBackgroundColor=light-dark(#171616, #121212);verticalAlign=middle;fontFamily=Verdana;labelBorderColor=default;textShadow=0;startFill=0;endSize=8;startSize=8;targetPerimeterSpacing=2;sourcePerimeterSpacing=2;strokeColor=light-dark(#000000,#BABDC0);jumpStyle=line;strokeWidth=2;fillColor=#cdeb8b;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ama2miM17LIpOyO-21Nn-84" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="2282" y="1470" as="sourcePoint" />
             <mxPoint x="2522.5" y="1660" as="targetPoint" />
