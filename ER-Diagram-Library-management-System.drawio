@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="Page-1" id="enIxqUN0M-IkAclhJr2Q">
-    <mxGraphModel dx="310" dy="-455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,8 +220,8 @@
             <mxRectangle width="150" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ama2miM17LIpOyO-21Nn-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ER DIAGRAM FOR library management system&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="1120" width="892.5" height="60" as="geometry" />
+        <mxCell id="ama2miM17LIpOyO-21Nn-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;ER DIAGRAM FOR library management system&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="1140" width="892.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ama2miM17LIpOyO-21Nn-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Return Details&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=#FFFFFF;swimlaneFillColor=default;fontSize=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="1561.5" y="1913" width="195" height="370.0000000000002" as="geometry" />
