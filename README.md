@@ -35,7 +35,7 @@ This project was developed as part of an academic assignment to model and presen
 This project was created by:
 
 - **Murtaza Hussaini**
-- **Jawied Moraadi **
+- **Jawied Moraadi**
 
 Students of the **Faculty of Information Technology and Communication**,  
 **Kabul University**
