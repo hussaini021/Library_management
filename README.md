@@ -37,7 +37,7 @@ This project was created by:
 - **Murtaza Hussaini**
 - **Jawied Moraadi**
 
-Students of the **Faculty of Information Technology and Communication**,  
+Students of the **Faculty of Information communication and Technology**,  
 **Kabul University**
 
 ## 📄 License
